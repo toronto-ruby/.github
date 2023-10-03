@@ -1,2 +1,2 @@
-# .github
-Github Organization Profile Repository
+# Toronto Ruby User's Group
+Just pokin' around for now, stay tuned!
